@@ -1,3 +1,3 @@
 # SuperHeroApi
-
-ASP.NET 6 Rest API
+~
+API with ASP.NET Core
